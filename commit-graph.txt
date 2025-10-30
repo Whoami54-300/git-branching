@@ -1,0 +1,9 @@
+* a0dcb35 (HEAD -> main, origin/main, origin/HEAD) 14. Граф лога коммитов
+* ecff44c 7. Добален файл на new ветке
+* 71b23d0 11. Изменение в task7.txt на ветке main
+* effaebe 9. Создание файла в main с тем же именем, как в new
+* d276a64 4. Доабален файл
+| * 2c2ff1f (origin/new, new) 7. Добален файл на new ветке
+| * 3908a5a 4. Добавлен файл
+|/  
+* 78f3cfe Добавлен README.md
